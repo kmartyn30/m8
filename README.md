@@ -1,4 +1,4 @@
-##ETL Functions for Three Data Files:
+## ETL Functions for Three Data Files:
  
  Britta was assigned to create an extract tranform and load with tables and loading data into existing tables daily by Amazing Prime a daily database. The purpose for her assignment was to create fuctions with Wikipedia data, Kaggle metadata, and Movielens rating data and determine performs forthe  three files using Python, ETL(extract,transform and load), process and PostgreSQL database to create the daily tables. 
 
